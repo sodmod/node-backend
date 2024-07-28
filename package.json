@@ -1,9 +1,10 @@
 {
-  "name": "typescript-node",
+  "name": "typescript-node-with-relationaldb",
   "version": "1.0.0",
   "description": "My first Typescrpt Node Using Express js",
   "main": "null",
   "scripts": {
+    ""
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Badmus Sodiq Olusola",
